@@ -1,6 +1,8 @@
-# GreedyPixel: Fine-Grained Black-Box Adversarial Attack Via Greedy Algorithm
+# [TIFS 2025] GreedyPixel: Fine-Grained Black-Box Adversarial Attack Via Greedy Algorithm
 
 [Publication](https://doi.org/10.1109/TIFS.2025.3630890) | [PDF](https://arxiv.org/pdf/2501.14230)
+
+[Hanrui Wang](https://scholar.google.com/citations?user=1XTseJEAAAAJ), [Ching-Chun Chang](https://scholar.google.com/citations?user=P-tAbagAAAAJ), [Chun-Shien Lu](https://scholar.google.com/citations?user=3iOHvUAAAAAJ), [Christopher Leckie](https://scholar.google.com/citations?user=wUsI0cAAAAAJ), and [Isao Echizen](https://scholar.google.com/citations?user=RduUnVIAAAAJ)
 
 <img src="figures/intro.png" alt="intro" style="width:800px;"/>
 
